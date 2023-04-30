@@ -1,4 +1,4 @@
-# Finds the probability of each trading condition
+# Finds the probability of RSI30 trading method.
 import csv
 import os
 import pandas as pd
