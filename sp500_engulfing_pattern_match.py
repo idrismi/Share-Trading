@@ -1,4 +1,5 @@
-# Finds the probability of each trading condition
+# Finds engulfing pattern trades based on conditions and savees the data. The data can be used for evaluation of a trading
+# strategy
 
 import csv
 import datetime
